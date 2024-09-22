@@ -1,5 +1,8 @@
 # quickstuff
 
+Main Gaianet node - https://github.com/codespaces
+https://github.com/codespaces/probable-robot-v7g96v76q5xfxqj
+
 wBmEHAqkW6Cd9Aww
 
 Titan Node Running - https://titannet.gitbook.io/titan-network-en/resource-network-test/operate-nodes/l2-edge-node/installation-and-earnings
