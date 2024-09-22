@@ -66,7 +66,7 @@ https://x.com/ZunXBT/status/1824026564087935408 - Fluent Contract Deployment
 
 https://beta1.conet.network/?referral=0x64ae6afbb1ba7a24044772245220cbd873706042 - CONET Depin
 https://app.blockmesh.xyz/register?invite_code=ec6e9682-96f7-491a-9342-e534fb201e60 - BlockMesh Depin (Solana)
-https://t.co/eYukosVRwH - Blockmesh extension
+https://t.co/eYukosVRwH - Blockmesh extension - Password - wBmEHAqkW6Cd9Aww@
 https://app.nodepay.ai/register?ref=eBGza9jaED3TeLV - Nodepay extension
 
 Nodepay login - https://app.nodepay.ai/dashboard
