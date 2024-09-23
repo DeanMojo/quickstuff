@@ -3,9 +3,20 @@
 Main Gaianet node - https://github.com/codespaces
 https://github.com/codespaces/probable-robot-v7g96v76q5xfxqj
 
+Teneo Node Running
+Site - https://teneo.pro/community-node
+Code - 2MOH9
+Extension - https://cdn.teneo.pro/teneo-community-node-v0.1.zip
+- Submit code ref ➡️ 2MOH9  => check mail verify account
+- Click Connect node & mining rewards...
+
+
 wBmEHAqkW6Cd9Aww
 
 Titan Node Running - https://titannet.gitbook.io/titan-network-en/resource-network-test/operate-nodes/l2-edge-node/installation-and-earnings
+Titan Node Credentials - https://test1.titannet.io/newoverview/activationcodemanagement
+Username - deanmojoharry@gmail.com
+Password - Mojoba127@
 
 Gradient
 https://t.co/HMl9utzh17
