@@ -1,4 +1,10 @@
 # quickstuff
+\\
+
+Vana Miner -  https://x.com/0xMoei/status/1842636092341662091
+
+https://airdrop.tari.com/download/WAh4K4LFsx
+Tari Code - WAh4K4LFsx
 
 Main Gaianet node - https://github.com/codespaces
 https://github.com/codespaces/probable-robot-v7g96v76q5xfxqj
