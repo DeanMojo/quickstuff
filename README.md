@@ -1,6 +1,8 @@
 # quickstuff
 \\
 
+https://github.com/0xmoei/Nexus-Prover
+
 Vana Miner -  https://x.com/0xMoei/status/1842636092341662091
 https://github.com/zunxbt/sixgpt?tab=readme-ov-file
 
