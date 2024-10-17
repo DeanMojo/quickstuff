@@ -1,6 +1,10 @@
 # quickstuff
 \\
 
+Alpha Network - https://alphaos.net/point?invite=92MLP5
+       Extension - https://chromewebstore.google.com/detail/alphaos/ahidmapichficbkfglbhgmhjcojjmlnm
+
+
 Oasis - https://dashboard.oasis.ai/auth/signup?ref=8aa8691d2502ea82
 Pingo - https://pingo.work/connect
 
