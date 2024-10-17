@@ -1,6 +1,6 @@
 # quickstuff
 \\
-
+DRIA AI - https://dria.co/join
 Alpha Network - https://alphaos.net/point?invite=92MLP5
        Extension - https://chromewebstore.google.com/detail/alphaos/ahidmapichficbkfglbhgmhjcojjmlnm
 
