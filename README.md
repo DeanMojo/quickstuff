@@ -100,7 +100,9 @@ https://t.co/eYukosVRwH - Blockmesh extension - Password - wBmEHAqkW6Cd9Aww@
 https://app.nodepay.ai/register?ref=eBGza9jaED3TeLV - Nodepay extension
 
 Nodepay login - https://app.nodepay.ai/dashboard
-Username - Deanmojoski
+Username - Deanmojoski 
+Email - deanadu23@gmail.com
+Password - wBmEHAqkW6Cd9Aww@
 
 Dawn /////////////////////////
 https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp - Extension
