@@ -6,6 +6,10 @@ Alpha Network - https://alphaos.net/point?invite=92MLP5
 
 
 Oasis - https://dashboard.oasis.ai/auth/signup?ref=8aa8691d2502ea82
+Oasis username - axeltakyi@gmail.com
+Password - wBmEHAqkW6Cd9Aww
+
+
 Pingo - https://pingo.work/connect
 
 https://github.com/0xmoei/Nexus-Prover
