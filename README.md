@@ -1,5 +1,13 @@
 # quickstuff
 \\
+
+Navigate Quest
+- Sign up - https://dataquest.nvg8.io//signup?ref=603050
+  Use referral - 603050
+  Download extension - https://chromewebstore.google.com/detail/navigate-data-quest/nggldafanajogepfhigplhkamalbpghc
+  Submit google form - https://docs.google.com/forms/d/e/1FAIpQLSf6bRoo5C8NBCehsXDcDq8-aC63DD-XtI1yGsCF7ubYtlXj2w/viewform
+
+  
 DRIA AI - https://dria.co/join
 Alpha Network - https://alphaos.net/point?invite=92MLP5
        Extension - https://chromewebstore.google.com/detail/alphaos/ahidmapichficbkfglbhgmhjcojjmlnm
