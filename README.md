@@ -1,6 +1,9 @@
 # quickstuff
 \\
 
+Nexus Prover - PROVER ID: HRK9YOSL
+
+
 Navigate Quest
 - Sign up - https://dataquest.nvg8.io//signup?ref=603050
   Use referral - 603050
