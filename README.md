@@ -3,6 +3,8 @@
 
 Nexus Prover - PROVER ID: HRK9YOSL
 
+https://app.aigaea.net/register?ref=gadnTvKtFkpM4r
+
 
 Navigate Quest
 - Sign up - https://dataquest.nvg8.io//signup?ref=603050
