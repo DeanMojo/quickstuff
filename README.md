@@ -1,6 +1,10 @@
 # quickstuff
 \\
 
+Kleo Network - https://chromewebstore.google.com/detail/kleo-network/jimpblheogbjfgajkccdoehjfadmimoo?refAddress=0x14DcA92395b1E5b8f5326F7E29559d3dC54A43A2
+
+BlockAG Depin - https://blockdag.network/
+
 Nexus Prover - PROVER ID: HRK9YOSL
 
 https://app.aigaea.net/register?ref=gadnTvKtFkpM4r
