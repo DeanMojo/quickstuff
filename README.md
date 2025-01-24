@@ -1,6 +1,17 @@
 # quickstuff
 \\
 
+[ALPHA NODE] LAYER EDGE ✨
+
+LayerEdge is a Bitcoin-backed Internet powering Dapps and Blockchain layers.
+
+HOW TO GET STARTED:
+• Open in OKX or Kiwi: http://dashboard.layeredge.io
+• Code: MTp2oERr
+• Run Light Node once every 24 hours.
+
+Node Runners will be eligible for $EDGE soon.
+
 Kleo Network - https://chromewebstore.google.com/detail/kleo-network/jimpblheogbjfgajkccdoehjfadmimoo?refAddress=0x14DcA92395b1E5b8f5326F7E29559d3dC54A43A2
 
 BlockAG Depin - https://blockdag.network/
