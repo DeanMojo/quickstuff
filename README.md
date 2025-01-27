@@ -1,6 +1,14 @@
 # quickstuff
 \\
 
+
+TAKER PROTOCOL
+https://earn.taker.xyz/?start=PSRF4
+
+PublicAI
+https://t.co/ZakAIlaQjc
+Download Extension - https://t.co/EOgopRviaU
+
 [ALPHA NODE] LAYER EDGE ✨
 
 LayerEdge is a Bitcoin-backed Internet powering Dapps and Blockchain layers.
